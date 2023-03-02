@@ -1,5 +1,0 @@
-github=https://github.com/sumitnarake
-codechef=https://www.codechef.com/users/devil2205
-leetcode=https://leetcode.com/SumitNarake2205/
-gfg=https://auth.geeksforgeeks.org/user/sumitnarake2205
-linked in=linkedin.com/in/sumit-narake-9b7010263
